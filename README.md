@@ -1,4 +1,4 @@
-# 🤖 MindHire AI
+#  MindHire AI
 
 > **AI-Powered Interview Platform** — Built for the Ethara.AI Full-Stack Assessment
 
@@ -6,21 +6,21 @@ MindHire AI is a full-stack intelligent hiring platform where candidates practic
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Description |
 |---|---|
-| 🎙 AI Mock Interviews | Claude AI conducts role-specific interviews with adaptive follow-ups |
-| 📊 Instant Scoring | Scored on Technical, Communication & Problem Solving (0–100) |
-| 🎯 6 Job Roles | Frontend, Backend, Full-Stack, Data Science, Product, Design |
-| 🔴🟡🟢 3 Difficulty Levels | Entry / Mid / Senior |
-| 📈 Recruiter Dashboard | KPIs, score charts, candidate rankings, skill breakdowns |
-| ⚡ Real-Time Feedback | Constructive feedback after every answer |
-| 🔒 Bias-Free Evaluation | AI scores purely on answer quality |
+| AI Mock Interviews | Claude AI conducts role-specific interviews with adaptive follow-ups |
+| Instant Scoring | Scored on Technical, Communication & Problem Solving (0–100) |
+| 6 Job Roles | Frontend, Backend, Full-Stack, Data Science, Product, Design |
+| 3 Difficulty Levels | Entry / Mid / Senior |
+| Recruiter Dashboard | KPIs, score charts, candidate rankings, skill breakdowns |
+| Real-Time Feedback | Constructive feedback after every answer |
+| Bias-Free Evaluation | AI scores purely on answer quality |
 
 ---
 
-## 🏗 Architecture
+##  Architecture
 
 ```
 mindhire-ai/
@@ -53,7 +53,7 @@ mindhire-ai/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Option A — Frontend Only (Demo Mode, No Backend Needed)
 
@@ -92,7 +92,7 @@ npx serve client/
 
 ---
 
-## 🌐 API Reference
+##  API Reference
 
 ### `GET /api/health`
 Returns server status.
@@ -177,7 +177,7 @@ Returns recruiter dashboard data.
 
 ---
 
-## 🔒 Security
+##  Security
 
 - API key is never stored server-side (per-request, passed by client)
 - `helmet` sets secure HTTP headers
@@ -186,7 +186,7 @@ Returns recruiter dashboard data.
 
 ---
 
-## 🌍 Deployment
+##  Deployment
 
 See `DEPLOYMENT.md` for step-by-step instructions to deploy on:
 - **Vercel** (frontend)
@@ -195,13 +195,13 @@ See `DEPLOYMENT.md` for step-by-step instructions to deploy on:
 
 ---
 
-## 👤 Author
+##  Author
 
 Built for **Ethara.AI Full-Stack Assessment — Round 1**
 Deadline: 6th May 2026, 11:00 PM
 
 ---
 
-## 📄 License
+##  License
 
 MIT
