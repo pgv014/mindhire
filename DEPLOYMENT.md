@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 MindHire AI — Deployment Guide
 
 Get a **live link** for your submission in under 10 minutes using free hosting.
@@ -106,3 +107,6 @@ Before submitting the form, make sure you have:
 - Make sure the README has setup instructions
 
 Good luck! 🎯
+=======
+
+>>>>>>> be39a42895253ffaaeefbdbfb810efe2ed4c9491
