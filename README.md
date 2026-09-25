@@ -140,7 +140,7 @@ npx serve client
 * Resume-based interview customization
 * Voice-enabled interviews
 * Detailed analytics and reporting
-* Database integration for persistent storage
+* Database integration for persistent storage.
 
 ## License
 
