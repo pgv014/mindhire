@@ -17,7 +17,7 @@ The project was developed as part of the Ethara.AI Full-Stack Assessment.
 * Automated candidate scoring
 * Recruiter analytics dashboard
 * Skill-based performance breakdown
-* Rate-limited and secure API endpoints
+* Rate-limited and secure API endpoints.
 
 ## Supported Roles
 
