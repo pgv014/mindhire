@@ -26,7 +26,7 @@ The project was developed as part of the Ethara.AI Full-Stack Assessment.
 * Full Stack Engineer
 * Data Scientist
 * Product Manager
-* UI/UX Designer
+* UI/UX Designer.
 
 ## Project Structure
 
