@@ -61,7 +61,7 @@ mindhire-ai/
 * Helmet
 * Express Rate Limit
 * CORS
-* Dotenv
+* Dotenv.
 
 ## Installation
 
