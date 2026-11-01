@@ -6,7 +6,7 @@ An AI-powered mock interview platform that helps candidates practice interviews 
 
 MindHire AI simulates technical interviews using Anthropic Claude. Candidates can select a role and difficulty level, answer interview questions, and receive detailed evaluations covering technical knowledge, communication skills, and problem-solving ability.
 
-The project was developed as part of the Ethara.AI Full-Stack Assessment.
+The project was developed as part of the Ethara.AI Full-Stack Assessment
 
 ## Features
 
